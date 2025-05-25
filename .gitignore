@@ -1,0 +1,8 @@
+**/__pycache__/
+.ipynb_checkpoints/
+pdf/**
+downloads/**
+streamlit/downloads/**
+**/.env
+*.amltmp
+.amlignore
